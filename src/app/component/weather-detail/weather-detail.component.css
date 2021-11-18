@@ -1,0 +1,23 @@
+.margin--bottom--l {
+    margin-bottom: 2rem!important;
+}
+.left {
+  float: left;
+  width: 50%;
+}
+.right {
+  float: left;
+  width: 50%;
+}
+.card-body{
+
+}
+
+article {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  padding: 1rem;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
